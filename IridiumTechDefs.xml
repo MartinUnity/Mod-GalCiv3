@@ -259,7 +259,6 @@ xsi:noNamespaceSchemaLocation="../Schema/TechDefs.xsd">
       <Influence>10</Influence>
       <Fortification>16</Fortification>
     </AICategoryWeight>
-    <Stats>
 		<Stats>
       <EffectType>HitPointsCap</EffectType>
       <Scope>Global</Scope>
@@ -269,6 +268,7 @@ xsi:noNamespaceSchemaLocation="../Schema/TechDefs.xsd">
 			<BonusType>Multiplier</BonusType>
 			<Value>0.125</Value>
 		</Stats>
+    <Stats>
       <EffectType>ManufacturingCost</EffectType>
       <Scope>Global</Scope>
       <Target>
