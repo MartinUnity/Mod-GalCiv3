@@ -3,580 +3,580 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="../Schema/TechSpecializationDefs.xsd">
 <!-- Created with the Gal Civ 3 Editor -->
-<!-- TerranTechSpecializationDefs.xml -->
+<!-- IridiumTechSpecializationDefs.xml -->
  
   <TechSpecialization>
-    <InternalName>TerranIndustrialSpecialization</InternalName>
+    <InternalName>IridiumIndustrialSpecialization</InternalName>
     <DisplayName>GenericIndustrialSpecialization_Name</DisplayName>
     <ShortDescription>GenericIndustrialSpecialization_ShortDec</ShortDescription>
-    <Description>GenericIndustrialSpecialization_Dec</Description>
+    <Description>IridiumIndustrialSpecialization_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Production_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranConstructionOptimization</InternalName>
+    <InternalName>IridiumConstructionOptimization</InternalName>
     <DisplayName>GenericConstructionOptimization_Name</DisplayName>
     <ShortDescription>GenericConstructionOptimization_ShortDec</ShortDescription>
-    <Description>GenericConstructionOptimization_Dec</Description>
+    <Description>IridiumConstructionOptimization_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Production_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranManufacturingFocus</InternalName>
+    <InternalName>IridiumManufacturingFocus</InternalName>
     <DisplayName>GenericManufacturingFocus_Name</DisplayName>
     <ShortDescription>GenericManufacturingFocus_ShortDec</ShortDescription>
-    <Description>GenericManufacturingFocus_Dec</Description>
+    <Description>IridiumManufacturingFocus_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Production_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranIndustrialMastery</InternalName>
+    <InternalName>IridiumIndustrialMastery</InternalName>
     <DisplayName>GenericIndustrialMastery_Name</DisplayName>
     <ShortDescription>GenericIndustrialMastery_ShortDec</ShortDescription>
-    <Description>GenericIndustrialMastery_Dec</Description>
+    <Description>IridiumIndustrialMastery_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Production_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranResearchOptimization</InternalName>
+    <InternalName>IridiumResearchOptimization</InternalName>
     <DisplayName>GenericResearchOptimization_Name</DisplayName>
     <ShortDescription>GenericResearchOptimization_ShortDec</ShortDescription>
-    <Description>GenericResearchOptimization_Dec</Description>
+    <Description>IridiumResearchOptimization_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Production_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranTechnologicalFocus</InternalName>
+    <InternalName>IridiumTechnologicalFocus</InternalName>
     <DisplayName>GenericTechnologicalFocus_Name</DisplayName>
     <ShortDescription>GenericTechnologicalFocus_ShortDec</ShortDescription>
-    <Description>GenericTechnologicalFocus_Dec</Description>
+    <Description>IridiumTechnologicalFocus_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Production_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranPlanetarySpecialization</InternalName>
+    <InternalName>IridiumPlanetarySpecialization</InternalName>
     <DisplayName>GenericPlanetarySpecialization_Name</DisplayName>
     <ShortDescription>GenericPlanetarySpecialization_ShortDec</ShortDescription>
-    <Description>GenericPlanetarySpecialization_Dec</Description>
+    <Description>IridiumPlanetarySpecialization_Dec</Description>
     <ColorDef>TechLemon</ColorDef>
     <Icon>GC3_Support_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranAgriculturalOptimization</InternalName>
+    <InternalName>IridiumAgriculturalOptimization</InternalName>
     <DisplayName>GenericAgriculturalOptimization_Name</DisplayName>
     <ShortDescription>GenericAgriculturalOptimization_ShortDec</ShortDescription>
-    <Description>GenericAgriculturalOptimization_Dec</Description>
+    <Description>IridiumAgriculturalOptimization_Dec</Description>
     <ColorDef>TechLemon</ColorDef>
     <Icon>GC3_Support_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranFarmingFocus</InternalName>
+    <InternalName>IridiumFarmingFocus</InternalName>
     <DisplayName>GenericFarmingFocus_Name</DisplayName>
     <ShortDescription>GenericFarmingFocus_ShortDec</ShortDescription>
-    <Description>GenericFarmingFocus_Dec</Description>
+    <Description>IridiumFarmingFocus_Dec</Description>
     <ColorDef>TechLemon</ColorDef>
     <Icon>GC3_Support_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranAgriculturalMastery</InternalName>
+    <InternalName>IridiumAgriculturalMastery</InternalName>
     <DisplayName>GenericAgriculturalMastery_Name</DisplayName>
     <ShortDescription>GenericAgriculturalMastery_ShortDec</ShortDescription>
-    <Description>GenericAgriculturalMastery_Dec</Description>
+    <Description>IridiumAgriculturalMastery_Dec</Description>
     <ColorDef>TechLemon</ColorDef>
     <Icon>GC3_Support_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranColonizationFocus</InternalName>
+    <InternalName>IridiumColonizationFocus</InternalName>
     <DisplayName>GenericColonizationFocus_Name</DisplayName>
     <ShortDescription>GenericColonizationFocus_ShortDec</ShortDescription>
-    <Description>GenericColonizationFocus_Dec</Description>
+    <Description>IridiumColonizationFocus_Dec</Description>
     <ColorDef>TechLemon</ColorDef>
     <Icon>GC3_Colonization_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranBiospherePerfection</InternalName>
+    <InternalName>IridiumBiospherePerfection</InternalName>
     <DisplayName>GenericBiospherePerfection_Name</DisplayName>
     <ShortDescription>GenericBiospherePerfection_ShortDec</ShortDescription>
-    <Description>GenericBiospherePerfection_Dec</Description>
+    <Description>IridiumBiospherePerfection_Dec</Description>
     <ColorDef>TechLemon</ColorDef>
     <Icon>GC3_Colonization_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranInterstellarSpecialization</InternalName>
+    <InternalName>IridiumInterstellarSpecialization</InternalName>
     <DisplayName>GenericInterstellarSpecialization_Name</DisplayName>
     <ShortDescription>GenericInterstellarSpecialization_ShortDec</ShortDescription>
-    <Description>GenericInterstellarSpecialization_Dec</Description>
+    <Description>IridiumInterstellarSpecialization_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranIonOptimization</InternalName>
+    <InternalName>IridiumIonOptimization</InternalName>
     <DisplayName>GenericIonOptimization_Name</DisplayName>
     <ShortDescription>GenericIonOptimization_ShortDec</ShortDescription>
-    <Description>GenericIonOptimization_Dec</Description>
+    <Description>IridiumIonOptimization_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Drives_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranWarpFieldFocus</InternalName>
+    <InternalName>IridiumWarpFieldFocus</InternalName>
     <DisplayName>GenericWarpFieldFocus_Name</DisplayName>
     <ShortDescription>GenericWarpFieldFocus_ShortDec</ShortDescription>
-    <Description>GenericWarpFieldFocus_Dec</Description>
+    <Description>IridiumWarpFieldFocus_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Drives_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranHyperwarpMastery</InternalName>
+    <InternalName>IridiumHyperwarpMastery</InternalName>
     <DisplayName>GenericHyperwarpMastery_Name</DisplayName>
     <ShortDescription>GenericHyperwarpMastery_ShortDec</ShortDescription>
-    <Description>GenericHyperwarpMastery_Dec</Description>
+    <Description>IridiumHyperwarpMastery_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Drives_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranSensorOptimization</InternalName>
+    <InternalName>IridiumSensorOptimization</InternalName>
     <DisplayName>GenericSensorOptimization_Name</DisplayName>
     <ShortDescription>GenericSensorOptimization_ShortDec</ShortDescription>
-    <Description>GenericSensorOptimization_Dec</Description>
+    <Description>IridiumSensorOptimization_Dec</Description>
     <ColorDef>TechCyan</ColorDef>
     <Icon>GC3_Sensors_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranEnergyFieldFocus</InternalName>
+    <InternalName>IridiumEnergyFieldFocus</InternalName>
     <DisplayName>GenericEnergyFieldFocus_Name</DisplayName>
     <ShortDescription>GenericEnergyFieldFocus_ShortDec</ShortDescription>
-    <Description>GenericEnergyFieldFocus_Dec</Description>
+    <Description>IridiumEnergyFieldFocus_Dec</Description>
     <ColorDef>TechCyan</ColorDef>
     <Icon>GC3_Sensors_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranSensorMastery</InternalName>
+    <InternalName>IridiumSensorMastery</InternalName>
     <DisplayName>GenericSensorMastery_Name</DisplayName>
     <ShortDescription>GenericSensorMastery_ShortDec</ShortDescription>
-    <Description>GenericSensorMastery_Dec</Description>
+    <Description>IridiumSensorMastery_Dec</Description>
     <ColorDef>TechCyan</ColorDef>
     <Icon>GC3_Sensors_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranPrecursorRelicFocus</InternalName>
+    <InternalName>IridiumPrecursorRelicFocus</InternalName>
     <DisplayName>GenericPrecursorRelicFocus_Name</DisplayName>
     <ShortDescription>GenericPrecursorRelicFocus_ShortDec</ShortDescription>
-    <Description>GenericPrecursorRelicFocus_Dec</Description>
+    <Description>IridiumPrecursorRelicFocus_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranLifeSupportOptimization</InternalName>
+    <InternalName>IridiumLifeSupportOptimization</InternalName>
     <DisplayName>GenericLifeSupportOptimization_Name</DisplayName>
     <ShortDescription>GenericLifeSupportOptimization_ShortDec</ShortDescription>
-    <Description>GenericLifeSupportOptimization_Dec</Description>
+    <Description>IridiumLifeSupportOptimization_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranSupportFieldFocus</InternalName>
+    <InternalName>IridiumSupportFieldFocus</InternalName>
     <DisplayName>GenericSupportFieldFocus_Name</DisplayName>
     <ShortDescription>GenericSupportFieldFocus_ShortDec</ShortDescription>
-    <Description>GenericSupportFieldFocus_Dec</Description>
+    <Description>IridiumSupportFieldFocus_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranLifeSupportMastery</InternalName>
+    <InternalName>IridiumLifeSupportMastery</InternalName>
     <DisplayName>GenericLifeSupportMastery_Name</DisplayName>
     <ShortDescription>GenericLifeSupportMastery_ShortDec</ShortDescription>
-    <Description>GenericLifeSupportMastery_Dec</Description>
+    <Description>IridiumLifeSupportMastery_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranOrbitalSpecialization</InternalName>
+    <InternalName>IridiumOrbitalSpecialization</InternalName>
     <DisplayName>GenericOrbitalSpecialization_Name</DisplayName>
     <ShortDescription>GenericOrbitalSpecialization_ShortDec</ShortDescription>
-    <Description>GenericOrbitalSpecialization_Dec</Description>
+    <Description>IridiumOrbitalSpecialization_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranZeroGravityOptimization</InternalName>
+    <InternalName>IridiumZeroGravityOptimization</InternalName>
     <DisplayName>GenericZeroGravityOptimization_Name</DisplayName>
     <ShortDescription>GenericZeroGravityOptimization_ShortDec</ShortDescription>
-    <Description>GenericZeroGravityOptimization_Dec</Description>
+    <Description>IridiumZeroGravityOptimization_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranOrbitalConstructionFocus</InternalName>
+    <InternalName>IridiumOrbitalConstructionFocus</InternalName>
     <DisplayName>GenericOrbitalConstructionFocus_Name</DisplayName>
     <ShortDescription>GenericOrbitalConstructionFocus_ShortDec</ShortDescription>
-    <Description>GenericOrbitalConstructionFocus_Dec</Description>
+    <Description>IridiumOrbitalConstructionFocus_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranHullMastery</InternalName>
+    <InternalName>IridiumHullMastery</InternalName>
     <DisplayName>GenericHullMastery_Name</DisplayName>
     <ShortDescription>GenericHullMastery_ShortDec</ShortDescription>
-    <Description>GenericHullMastery_Dec</Description>
+    <Description>IridiumHullMastery_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranCarrierFocus</InternalName>
+    <InternalName>IridiumCarrierFocus</InternalName>
     <DisplayName>GenericCarrierFocus_Name</DisplayName>
     <ShortDescription>GenericCarrierFocus_ShortDec</ShortDescription>
-    <Description>GenericCarrierFocus_Dec</Description>
+    <Description>IridiumCarrierFocus_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranLogisticalOptimization</InternalName>
+    <InternalName>IridiumLogisticalOptimization</InternalName>
     <DisplayName>GenericLogisticalOptimization_Name</DisplayName>
     <ShortDescription>GenericLogisticalOptimization_ShortDec</ShortDescription>
-    <Description>GenericLogisticalOptimization_Dec</Description>
+    <Description>IridiumLogisticalOptimization_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranWeaponsSpecialization</InternalName>
+    <InternalName>IridiumWeaponsSpecialization</InternalName>
     <DisplayName>GenericWeaponsSpecialization_Name</DisplayName>
     <ShortDescription>GenericWeaponsSpecialization_ShortDec</ShortDescription>
-    <Description>GenericWeaponsSpecialization_Dec</Description>
+    <Description>IridiumWeaponsSpecialization_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranBeamWeaponOptimization</InternalName>
+    <InternalName>IridiumBeamWeaponOptimization</InternalName>
     <DisplayName>GenericBeamWeaponOptimization_Name</DisplayName>
     <ShortDescription>GenericBeamWeaponOptimization_ShortDec</ShortDescription>
-    <Description>GenericBeamWeaponOptimization_Dec</Description>
+    <Description>IridiumBeamWeaponOptimization_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranHighEnergyFocus</InternalName>
+    <InternalName>IridiumHighEnergyFocus</InternalName>
     <DisplayName>GenericHighEnergyFocus_Name</DisplayName>
     <ShortDescription>GenericHighEnergyFocus_ShortDec</ShortDescription>
-    <Description>GenericHighEnergyFocus_Dec</Description>
+    <Description>IridiumHighEnergyFocus_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranBeamWeaponMastery</InternalName>
+    <InternalName>IridiumBeamWeaponMastery</InternalName>
     <DisplayName>GenericBeamWeaponMastery_Name</DisplayName>
     <ShortDescription>GenericBeamWeaponMastery_ShortDec</ShortDescription>
-    <Description>GenericBeamWeaponMastery_Dec</Description>
+    <Description>IridiumBeamWeaponMastery_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranMissileOptimization</InternalName>
+    <InternalName>IridiumMissileOptimization</InternalName>
     <DisplayName>GenericMissileOptimization_Name</DisplayName>
     <ShortDescription>GenericMissileOptimization_ShortDec</ShortDescription>
-    <Description>GenericMissileOptimization_Dec</Description>
+    <Description>IridiumMissileOptimization_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Missile_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranWarheadFocus</InternalName>
+    <InternalName>IridiumWarheadFocus</InternalName>
     <DisplayName>GenericWarheadFocus_Name</DisplayName>
     <ShortDescription>GenericWarheadFocus_ShortDec</ShortDescription>
-    <Description>GenericWarheadFocus_Dec</Description>
+    <Description>IridiumWarheadFocus_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Missile_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranPayloadMastery</InternalName>
+    <InternalName>IridiumPayloadMastery</InternalName>
     <DisplayName>GenericPayloadMastery_Name</DisplayName>
     <ShortDescription>GenericPayloadMastery_ShortDec</ShortDescription>
-    <Description>GenericPayloadMastery_Dec</Description>
+    <Description>IridiumPayloadMastery_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Missile_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranKineticOptimization</InternalName>
+    <InternalName>IridiumKineticOptimization</InternalName>
     <DisplayName>GenericKineticOptimization_Name</DisplayName>
     <ShortDescription>GenericKineticOptimization_ShortDec</ShortDescription>
-    <Description>GenericKineticOptimization_Dec</Description>
+    <Description>IridiumKineticOptimization_Dec</Description>
     <ColorDef>TechRed</ColorDef>
     <Icon>GC3_Kinetic_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranKineticAccelerationFocus</InternalName>
+    <InternalName>IridiumKineticAccelerationFocus</InternalName>
     <DisplayName>GenericKineticAccelerationFocus_Name</DisplayName>
     <ShortDescription>GenericKineticAccelerationFocus_ShortDec</ShortDescription>
-    <Description>GenericKineticAccelerationFocus_Dec</Description>
+    <Description>IridiumKineticAccelerationFocus_Dec</Description>
     <ColorDef>TechRed</ColorDef>
     <Icon>GC3_Kinetic_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranKineticMastery</InternalName>
+    <InternalName>IridiumKineticMastery</InternalName>
     <DisplayName>GenericKineticMastery_Name</DisplayName>
     <ShortDescription>GenericKineticMastery_ShortDec</ShortDescription>
-    <Description>GenericKineticMastery_Dec</Description>
+    <Description>IridiumKineticMastery_Dec</Description>
     <ColorDef>TechRed</ColorDef>
     <Icon>GC3_Kinetic_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranInvasionOptimization</InternalName>
-    <DisplayName>GenericInvasionOptimization_Name</DisplayName>
-    <ShortDescription>GenericInvasionOptimization_ShortDec</ShortDescription>
-    <Description>GenericInvasionOptimization_Dec</Description>
+    <InternalName>IridiumAcquisitionSpecialization</InternalName>
+    <DisplayName>IridiumAcquisitionSpecialization_Name</DisplayName>
+    <ShortDescription>IridiumAcquisitionSpecialization_ShortDec</ShortDescription>
+    <Description>IridiumAcquisitionSpecialization_Dec</Description>
     <ColorDef>TechRed</ColorDef>
     <Icon>GC3_Invasion_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranGravitationalFocus</InternalName>
+    <InternalName>IridiumInvasionOptimization</InternalName>
+    <DisplayName>GenericInvasionOptimization_Name</DisplayName>
+    <ShortDescription>GenericInvasionOptimization_ShortDec</ShortDescription>
+    <Description>IridiumInvasionOptimization_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Invasion_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>IridiumGravitationalFocus</InternalName>
     <DisplayName>GenericGravitationalFocus_Name</DisplayName>
     <ShortDescription>GenericGravitationalFocus_ShortDec</ShortDescription>
-    <Description>GenericGravitationalFocus_Dec</Description>
+    <Description>IridiumGravitationalFocus_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Marines_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranDefensiveSpecialization</InternalName>
+    <InternalName>IridiumDefensiveSpecialization</InternalName>
     <DisplayName>GenericDefensiveSpecialization_Name</DisplayName>
     <ShortDescription>GenericDefensiveSpecialization_ShortDec</ShortDescription>
-    <Description>GenericDefensiveSpecialization_Dec</Description>
+    <Description>IridiumDefensiveSpecialization_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Shields_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranShieldOptimization</InternalName>
+    <InternalName>IridiumShieldOptimization</InternalName>
     <DisplayName>GenericShieldOptimization_Name</DisplayName>
     <ShortDescription>GenericShieldOptimization_ShortDec</ShortDescription>
-    <Description>GenericShieldOptimization_Dec</Description>
+    <Description>IridiumShieldOptimization_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Shields_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranBarrierSystemFocus</InternalName>
+    <InternalName>IridiumBarrierSystemFocus</InternalName>
     <DisplayName>GenericBarrierSystemFocus_Name</DisplayName>
     <ShortDescription>GenericBarrierSystemFocus_ShortDec</ShortDescription>
-    <Description>GenericBarrierSystemFocus_Dec</Description>
+    <Description>IridiumBarrierSystemFocus_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Shields_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranShieldMastery</InternalName>
+    <InternalName>IridiumShieldMastery</InternalName>
     <DisplayName>GenericShieldMastery_Name</DisplayName>
     <ShortDescription>GenericShieldMastery_ShortDec</ShortDescription>
-    <Description>GenericShieldMastery_Dec</Description>
+    <Description>IridiumShieldMastery_Dec</Description>
     <ColorDef>TechBlue</ColorDef>
     <Icon>GC3_Shields_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranPointDefenseOptimization</InternalName>
+    <InternalName>IridiumPointDefenseOptimization</InternalName>
     <DisplayName>GenericPointDefenseOptimization_Name</DisplayName>
     <ShortDescription>GenericPointDefenseOptimization_ShortDec</ShortDescription>
-    <Description>GenericPointDefenseOptimization_Dec</Description>
+    <Description>IridiumPointDefenseOptimization_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Point_Defense_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranCounterMeasureFocus</InternalName>
+    <InternalName>IridiumCounterMeasureFocus</InternalName>
     <DisplayName>GenericCounterMeasureFocus_Name</DisplayName>
     <ShortDescription>GenericCounterMeasureFocus_ShortDec</ShortDescription>
-    <Description>GenericCounterMeasureFocus_Dec</Description>
+    <Description>IridiumCounterMeasureFocus_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Point_Defense_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranDroneSystemMastery</InternalName>
+    <InternalName>IridiumDroneSystemMastery</InternalName>
     <DisplayName>GenericDroneSystemMastery_Name</DisplayName>
     <ShortDescription>GenericDroneSystemMastery_ShortDec</ShortDescription>
-    <Description>GenericDroneSystemMastery_Dec</Description>
+    <Description>IridiumDroneSystemMastery_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Point_Defense_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranArmorOptimization</InternalName>
+    <InternalName>IridiumArmorOptimization</InternalName>
     <DisplayName>GenericArmorOptimization_Name</DisplayName>
     <ShortDescription>GenericArmorOptimization_ShortDec</ShortDescription>
-    <Description>GenericArmorOptimization_Dec</Description>
+    <Description>IridiumArmorOptimization_Dec</Description>
     <ColorDef>TechRed</ColorDef>
     <Icon>GC3_Armor_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranArmorFocus</InternalName>
+    <InternalName>IridiumArmorFocus</InternalName>
     <DisplayName>GenericArmorFocus_Name</DisplayName>
     <ShortDescription>GenericArmorFocus_ShortDec</ShortDescription>
-    <Description>GenericArmorFocus_Dec</Description>
+    <Description>IridiumArmorFocus_Dec</Description>
     <ColorDef>TechRed</ColorDef>
     <Icon>GC3_Armor_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranArmorMastery</InternalName>
+    <InternalName>IridiumArmorMastery</InternalName>
     <DisplayName>GenericArmorMastery_Name</DisplayName>
     <ShortDescription>GenericArmorMastery_ShortDec</ShortDescription>
-    <Description>GenericArmorMastery_Dec</Description>
+    <Description>IridiumArmorMastery_Dec</Description>
     <ColorDef>TechRed</ColorDef>
     <Icon>GC3_Armor_Tech_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranDiplomaticSpecialization</InternalName>
+    <InternalName>IridiumDiplomaticSpecialization</InternalName>
     <DisplayName>GenericDiplomaticSpecialization_Name</DisplayName>
     <ShortDescription>GenericDiplomaticSpecialization_ShortDec</ShortDescription>
-    <Description>GenericDiplomaticSpecialization_Dec</Description>
+    <Description>IridiumDiplomaticSpecialization_Dec</Description>
     <ColorDef>TechGreen</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranPoliticalSpecialization</InternalName>
+    <InternalName>IridiumPoliticalSpecialization</InternalName>
     <DisplayName>GenericPoliticalSpecialization_Name</DisplayName>
     <ShortDescription>GenericPoliticalSpecialization_ShortDec</ShortDescription>
-    <Description>GenericPoliticalSpecialization_Dec</Description>
+    <Description>IridiumPoliticalSpecialization_Dec</Description>
     <ColorDef>TechGreen</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranPoliticalFocus</InternalName>
+    <InternalName>IridiumPoliticalFocus</InternalName>
     <DisplayName>GenericPoliticalFocus_Name</DisplayName>
     <ShortDescription>GenericPoliticalFocus_ShortDec</ShortDescription>
-    <Description>GenericPoliticalFocus_Dec</Description>
+    <Description>IridiumPoliticalFocus_Dec</Description>
     <ColorDef>TechGreen</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranPoliticalMastery</InternalName>
+    <InternalName>IridiumPoliticalMastery</InternalName>
     <DisplayName>GenericPoliticalMastery_Name</DisplayName>
     <ShortDescription>GenericPoliticalMastery_ShortDec</ShortDescription>
-    <Description>GenericPoliticalMastery_Dec</Description>
+    <Description>IridiumPoliticalMastery_Dec</Description>
     <ColorDef>TechGreen</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranDiplomaticOptimization</InternalName>
-    <DisplayName>GenericDiplomaticOptimization_Name</DisplayName>
+    <InternalName>IridiumDiplomaticOptimization</InternalName>
+    <DisplayName>IridiumDiplomaticOptimization_Name</DisplayName>
     <ShortDescription>GenericDiplomaticOptimization_ShortDec</ShortDescription>
-    <Description>GenericDiplomaticOptimization_Dec</Description>
+    <Description>IridiumDiplomaticOptimization_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranAllianceFocus</InternalName>
-    <DisplayName>GenericAllianceFocus_Name</DisplayName>
+    <InternalName>IridiumAllianceFocus</InternalName>
+    <DisplayName>IridiumAllianceFocus_Name</DisplayName>
     <ShortDescription>GenericAllianceFocus_ShortDec</ShortDescription>
-    <Description>GenericAllianceFocus_Dec</Description>
+    <Description>IridiumAllianceFocus_Dec</Description>
     <ColorDef>TechPurple</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranCulturalOptimization</InternalName>
-    <DisplayName>GenericCulturalOptimization_Name</DisplayName>
-    <ShortDescription>GenericCulturalOptimization_ShortDec</ShortDescription>
-    <Description>GenericCulturalOptimization_Dec</Description>
-    <ColorDef>TechCyan</ColorDef>
+    <InternalName>IridiumMarketingSpecialization</InternalName>
+    <DisplayName>IridiumMarketingSpecialization_Name</DisplayName>
+    <ShortDescription>IridiumMarketingSpecialization_ShortDec</ShortDescription>
+    <Description>IridiumMarketingSpecialization_Dec</Description>
+    <ColorDef>TechGreen</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranCulturalFocus</InternalName>
-    <DisplayName>GenericCulturalFocus_Name</DisplayName>
-    <ShortDescription>GenericCulturalFocus_ShortDec</ShortDescription>
-    <Description>GenericCulturalFocus_Dec</Description>
-    <ColorDef>TechCyan</ColorDef>
-    <Icon>GC3_Economics_Icon.png</Icon>
-  </TechSpecialization>
- 
-  <TechSpecialization>
-    <InternalName>TerranCommerceSpecialization</InternalName>
+    <InternalName>IridiumCommerceSpecialization</InternalName>
     <DisplayName>GenericCommerceSpecialization_Name</DisplayName>
     <ShortDescription>GenericCommerceSpecialization_ShortDec</ShortDescription>
-    <Description>GenericCommerceSpecialization_Dec</Description>
+    <Description>IridiumCommerceSpecialization_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranEconomicFocus</InternalName>
+    <InternalName>IridiumEconomicFocus</InternalName>
     <DisplayName>GenericEconomicFocus_Name</DisplayName>
     <ShortDescription>GenericEconomicFocus_ShortDec</ShortDescription>
-    <Description>GenericEconomicFocus_Dec</Description>
+    <Description>IridiumEconomicFocus_Dec</Description>
     <ColorDef>TechGreen</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranTradeOptimization</InternalName>
+    <InternalName>IridiumTradeOptimization</InternalName>
     <DisplayName>GenericTradeOptimization_Name</DisplayName>
     <ShortDescription>GenericTradeOptimization_ShortDec</ShortDescription>
-    <Description>GenericTradeOptimization_Dec</Description>
+    <Description>IridiumTradeOptimization_Dec</Description>
     <ColorDef>TechGreen</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranTradeFocus</InternalName>
+    <InternalName>IridiumTradeFocus</InternalName>
     <DisplayName>GenericTradeFocus_Name</DisplayName>
     <ShortDescription>GenericTradeFocus_ShortDec</ShortDescription>
-    <Description>GenericTradeFocus_Dec</Description>
+    <Description>IridiumTradeFocus_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
  
   <TechSpecialization>
-    <InternalName>TerranApprovalFocus</InternalName>
+    <InternalName>IridiumApprovalFocus</InternalName>
     <DisplayName>GenericApprovalFocus_Name</DisplayName>
     <ShortDescription>GenericApprovalFocus_ShortDec</ShortDescription>
-    <Description>GenericApprovalFocus_Dec</Description>
+    <Description>IridiumApprovalFocus_Dec</Description>
     <ColorDef>TechYellow</ColorDef>
     <Icon>GC3_Economics_Icon.png</Icon>
   </TechSpecialization>
